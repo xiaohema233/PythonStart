@@ -19,5 +19,7 @@ gender = False  # 不是
 height = 1.75
 
 weight = 75
-
+# type查看变量类型
+print(type(gender))
+print('-' * 20)
 print(name)

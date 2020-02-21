@@ -2,39 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ce99b04-5af4-4c72-82ff-167571e5ed5b" name="Default Changelist" comment="Python基础">
-      <change afterPath="$PROJECT_DIR$/01_Python基础/.idea/01_Python基础.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_01_hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_02_第2个Python程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_03_注释.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_04_qq号码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_05_超市买苹果.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_06_个人信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_07_买苹果增强版.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_08_买苹果改进.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/hm_09_格式化输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/PyCharm 的初始设置（知道）.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950329208518/001_人生苦短我用python.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950329208518/001_编译型和解释型语言工作对比.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950329208518/002_吉多.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950456888393/001_PyCharm的界面结构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950456888393/001_积跬步以至千里.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950456888393/002_PyCharm运行工具栏.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950456888393/003_PyCharm调试器.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/001_PyCharm导入配置信息.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/002_激活许可证.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/003_PyCharm初始配置界面.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/004_PyCharm欢迎页面.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/005_打开已有Python项目.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/006_选择项目的解释器版本.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/007_PyCharm设置编辑器字体.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/008_PyCharm设置控制台字体.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14950463298537/009_创建桌面图标.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/第一个 Python 程序.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/认识 Python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/04_多文件项目的演练.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/05_注释.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/06_算数运算符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/07_程序执行原理（科普）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/08_变量的基本使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/09_变量的命名.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14951694921910/001_程序执行示意图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14951694921910/003_Python程序执行示意图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14951694921910/003_QQ登陆界面.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14951694921910/004_QQ号码和密码内存示意图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14951694921910/CPU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14951694921910/内存条.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14951694921910/硬盘.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14957651506944/001_未使用注释的python程序.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14957760846222/001_让选中的程序可以执行.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14959601550115/001_中国山东找蓝翔.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14959601550115/002_标识符区分大小写.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python基础/markdown/media/14959601550115/003_驼峰命名法.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_分支/.idea/02_分支.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_分支/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_分支/.idea/misc.xml" afterDir="false" />
@@ -48,39 +33,13 @@
       <change afterPath="$PROJECT_DIR$/02_分支/hm_06_女友的节日.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_分支/hm_07_火车站安检.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_分支/hm_08_石头剪刀布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/01_认识 Python.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/02_第一个 Python 程序.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/03_PyCharm 的初始设置（知道）.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/04_多文件项目的演练.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/05_注释.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/06_算数运算符.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/07_程序执行原理（科普）.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/08_变量的基本使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950329208518/001_人生苦短我用python.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950329208518/001_编译型和解释型语言工作对比.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950329208518/002_吉多.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950456888393/001_PyCharm的界面结构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950456888393/001_积跬步以至千里.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950456888393/002_PyCharm运行工具栏.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950456888393/003_PyCharm调试器.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/001_PyCharm导入配置信息.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/002_激活许可证.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/003_PyCharm初始配置界面.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/004_PyCharm欢迎页面.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/005_打开已有Python项目.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/006_选择项目的解释器版本.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/007_PyCharm设置编辑器字体.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/008_PyCharm设置控制台字体.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14950463298537/009_创建桌面图标.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14951694921910/001_程序执行示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14951694921910/003_Python程序执行示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14951694921910/003_QQ登陆界面.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14951694921910/004_QQ号码和密码内存示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14951694921910/CPU.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14951694921910/内存条.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14951694921910/硬盘.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14957651506944/001_未使用注释的python程序.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14957760846222/001_让选中的程序可以执行.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/markdown/10_判断（if）语句.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/markdown/11_运算符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14963192801181/001_未成年人禁止入内.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14963192801181/002_火车站安检.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14963192801181/003_判断示意图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14963192801181/004_if语句是一个完整的代码块1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/markdown/media/14963192801181/005_ifelse语句是一个完整的代码块1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/03_循环/.idea/03_循环.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/03_循环/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/03_循环/.idea/misc.xml" afterDir="false" />
@@ -355,9 +314,12 @@
       <change afterPath="$PROJECT_DIR$/07_语法进阶/markdown/media/14993074876434/002_递归调用示意图I.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_语法进阶/markdown/函数进阶.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_语法进阶/markdown/变量进阶（理解）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonStart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonStart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Python基础/hm_03_注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Python基础/hm_03_注释.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Python基础/hm_06_个人信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Python基础/hm_06_个人信息.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Python基础/markdown/PyCharm 的初始设置（知道）.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_Python基础/markdown/03_PyCharm 的初始设置（知道）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Python基础/markdown/第一个 Python 程序.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_Python基础/markdown/02_第一个 Python 程序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Python基础/markdown/认识 Python.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_Python基础/markdown/01_认识 Python.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -397,25 +359,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/07_语法进阶" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_Python基础/markdown" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\PythonStart\01_Python基础\markdown" />
+      <recent name="D:\PycharmProjects\PythonStart\01_Python基础\markdown\media" />
+      <recent name="D:\PycharmProjects\PythonStart\02_分支\markdown" />
       <recent name="D:\PycharmProjects\PythonStart\07_语法进阶" />
       <recent name="D:\PycharmProjects\PythonStart\06_名片管理视频代码和备课代码" />
-      <recent name="D:\PycharmProjects\PythonStart\05_高级数据类型" />
-      <recent name="D:\PycharmProjects\PythonStart\04_函数" />
-      <recent name="D:\PycharmProjects\PythonStart" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\PythonStart\01_Python基础\markdown" />
+      <recent name="D:\PycharmProjects\PythonStart\01_Python基础\markdown\media" />
       <recent name="D:\PycharmProjects\PythonStart" />
       <recent name="D:\PycharmProjects\PythonStart\base" />
       <recent name="D:\PycharmProjects\PythonStart\base\python基础" />
     </key>
   </component>
   <component name="RunManager" selected="Python.hm_09_格式化输出">
-    <configuration name="hm_05_超市买苹果" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_01_hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -428,7 +392,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python基础/hm_05_超市买苹果.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python基础/hm_01_hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_02_第2个Python程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Python基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python基础/hm_02_第2个Python程序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,7 +445,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_07_买苹果增强版" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_08_石头剪刀布" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -467,34 +453,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Python基础" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_分支" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python基础/hm_07_买苹果增强版.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hm_08_买苹果改进" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStart" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Python基础" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python基础/hm_08_买苹果改进.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_分支/hm_08_石头剪刀布.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -528,10 +492,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.hm_09_格式化输出" />
-        <item itemvalue="Python.hm_08_买苹果改进" />
-        <item itemvalue="Python.hm_07_买苹果增强版" />
         <item itemvalue="Python.hm_06_个人信息" />
-        <item itemvalue="Python.hm_05_超市买苹果" />
+        <item itemvalue="Python.hm_02_第2个Python程序" />
+        <item itemvalue="Python.hm_01_hello" />
+        <item itemvalue="Python.hm_08_石头剪刀布" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +521,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582122808795</updated>
-      <workItem from="1582122810040" duration="22991000" />
+      <workItem from="1582122810040" duration="32633000" />
     </task>
     <task id="LOCAL-00001" summary="Pycharm自动生成">
       <created>1582124024639</created>
@@ -566,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582124024639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python基础">
+      <created>1582262118218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582262118218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,69 +557,95 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Pycharm自动生成" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pycharm自动生成" />
+    <MESSAGE value="Python基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python基础" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582261864543">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582262112069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582261864543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582262064242">
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582262112069" />
+    <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1582280532742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582262064242" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582262064242">
+    <state width="746" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582280532742" />
+    <state width="746" height="210" key="GridCell.Tab.0.center" timestamp="1582280532742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582262064242" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582262064242">
+    <state width="746" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582280532742" />
+    <state width="746" height="210" key="GridCell.Tab.0.left" timestamp="1582280532742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582262064242" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582262064242">
+    <state width="746" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582280532742" />
+    <state width="746" height="210" key="GridCell.Tab.0.right" timestamp="1582280532742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582262064242" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582242263304">
+    <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582280532742" />
+    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1582271074571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582242263304" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582242263304">
+    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582271074571" />
+    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1582271074571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582242263304" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582242263304">
+    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582271074571" />
+    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1582271074571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582242263304" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582242263304">
+    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582271074571" />
+    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1582271074571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582242263304" />
+    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582271074571" />
     <state x="19" y="32" key="SettingsEditor" timestamp="1582255458174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="19" y="32" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582255458174" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582124170834">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582262133253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582124170834" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582262133253" />
     <state x="879" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582243198491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="879" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1582243198491" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_Python基础/hm_06_个人信息.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_Python基础/hm_06_个人信息.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_Python基础/hm_06_个人信息.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonStart$hm_01_hello.coverage" NAME="hm_01_hello Coverage Results" MODIFIED="1582255164811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_04_qq.coverage" NAME="hm_04_qq号码 Coverage Results" MODIFIED="1582255214374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$python.coverage" NAME="python基础 Coverage Results" MODIFIED="1582253034612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_08_.coverage" NAME="hm_08_买苹果改进 Coverage Results" MODIFIED="1582255286711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_05_.coverage" NAME="hm_05_超市买苹果 Coverage Results" MODIFIED="1582255222302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_06_.coverage" NAME="hm_06_个人信息 Coverage Results" MODIFIED="1582255248682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_07_.coverage" NAME="hm_07_买苹果增强版 Coverage Results" MODIFIED="1582255269038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_03_.coverage" NAME="hm_03_注释 Coverage Results" MODIFIED="1582255187696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_01_hello.coverage" NAME="hm_01_hello Coverage Results" MODIFIED="1582263843157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_08_.coverage" NAME="hm_08_石头剪刀布 Coverage Results" MODIFIED="1582262825203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_02_.coverage" NAME="hm_02_判断年龄改进版 Coverage Results" MODIFIED="1582262710906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_06_.coverage" NAME="hm_06_个人信息 Coverage Results" MODIFIED="1582271460997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_07_.coverage" NAME="hm_07_火车站安检 Coverage Results" MODIFIED="1582262799255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_01_.coverage" NAME="hm_01_判断年龄 Coverage Results" MODIFIED="1582262696167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
     <SUITE FILE_PATH="coverage/PythonStart$QQmail.coverage" NAME="QQmail Coverage Results" MODIFIED="1582192824079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumLearn" />
     <SUITE FILE_PATH="coverage/PythonStart$HelloPython.coverage" NAME="HelloPython Coverage Results" MODIFIED="1582250852866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_09_.coverage" NAME="hm_09_格式化输出 Coverage Results" MODIFIED="1582262064233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_02_2Python.coverage" NAME="hm_02_第2个Python程序 Coverage Results" MODIFIED="1582263983738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_04_.coverage" NAME="hm_04_判断考试成绩 Coverage Results" MODIFIED="1582262737085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_04_qq.coverage" NAME="hm_04_qq号码 Coverage Results" MODIFIED="1582255214374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$python.coverage" NAME="python基础 Coverage Results" MODIFIED="1582253034612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_05_.coverage" NAME="hm_05_非公勿入 Coverage Results" MODIFIED="1582262756542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_03_.coverage" NAME="hm_03_逻辑运算演练 Coverage Results" MODIFIED="1582262727439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_09_.coverage" NAME="hm_09_格式化输出 Coverage Results" MODIFIED="1582280532734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
   </component>
 </project>
