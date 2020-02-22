@@ -2,177 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ce99b04-5af4-4c72-82ff-167571e5ed5b" name="Default Changelist" comment="fixup! Python基础 调整md文件位置">
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/.idea/05_高级数据类型.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_01_列表基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_02_del关键字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_03_列表的数据统计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_04_列表排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_05_列表遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_06_元组基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_07_元组遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_08_格式化字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_09_字典的定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_10_字典基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_11_字典的其他操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_12_字典的遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_13_字典的应用场景.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_14_字符串定义和遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_15_字符串统计操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_16_字符串判断方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_17_字符串的查找和替换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_18_字符串文本对齐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_19_字符串拆分和拼接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_20_for语法演练.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/hm_21_遍历字典的列表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/markdown/media/14972568611505/001_列表示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/markdown/media/14972568611505/002_forin循环流程图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/markdown/media/14972568611505/002_字典示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/markdown/media/14972568611505/003_元组示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/markdown/media/14972568611505/005_字符串示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/markdown/media/14972568611505/006_字符串索引示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/markdown/高级变量类型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass/cards_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环/cards_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/03_嵌套名片操作判断/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/03_嵌套名片操作判断/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/03_嵌套名片操作判断/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/03_嵌套名片操作判断/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/03_嵌套名片操作判断/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/03_嵌套名片操作判断/cards_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/03_嵌套名片操作判断/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/cards_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/07_全局名片列表/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/07_全局名片列表/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/07_全局名片列表/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/07_全局名片列表/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/07_全局名片列表/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/07_全局名片列表/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/07_全局名片列表/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/08_新增名片/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/08_新增名片/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/08_新增名片/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/08_新增名片/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/08_新增名片/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/08_新增名片/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/08_新增名片/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/09_统一修改变量名/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/09_统一修改变量名/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/09_统一修改变量名/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/09_统一修改变量名/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/09_统一修改变量名/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/09_统一修改变量名/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/09_统一修改变量名/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/10_显示所有名片/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/10_显示所有名片/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/10_显示所有名片/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/10_显示所有名片/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/10_显示所有名片/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/10_显示所有名片/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/10_显示所有名片/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/11_判断名片数量/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/11_判断名片数量/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/11_判断名片数量/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/11_判断名片数量/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/11_判断名片数量/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/11_判断名片数量/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/11_判断名片数量/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/12_搜索名片/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/12_搜索名片/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/12_搜索名片/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/12_搜索名片/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/12_搜索名片/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/12_搜索名片/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/12_搜索名片/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/13_增加处理名片函数/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/13_增加处理名片函数/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/13_增加处理名片函数/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/13_增加处理名片函数/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/13_增加处理名片函数/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/13_增加处理名片函数/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/13_增加处理名片函数/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/14_选择针对名片的操作/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/14_选择针对名片的操作/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/14_选择针对名片的操作/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/14_选择针对名片的操作/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/14_选择针对名片的操作/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/14_选择针对名片的操作/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/14_选择针对名片的操作/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/15_删除名片/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/15_删除名片/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/15_删除名片/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/15_删除名片/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/15_删除名片/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/15_删除名片/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/15_删除名片/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/17_准备新的输入函数/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/17_准备新的输入函数/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/17_准备新的输入函数/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/17_准备新的输入函数/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/17_准备新的输入函数/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/17_准备新的输入函数/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/17_准备新的输入函数/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/18_输入函数实现/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/18_输入函数实现/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/18_输入函数实现/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/18_输入函数实现/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/18_输入函数实现/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/18_输入函数实现/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/18_输入函数实现/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/19_增加函数文档注释/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/19_增加函数文档注释/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/19_增加函数文档注释/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/19_增加函数文档注释/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/19_增加函数文档注释/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/19_增加函数文档注释/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/19_增加函数文档注释/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/.idea/06_名片管理.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/cards_main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/cards_tools.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理备课/.idea/06_名片管理备课.iml" afterDir="false" />
@@ -286,8 +149,8 @@
       <recent name="D:\PycharmProjects\PythonStart\07_语法进阶" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hm_20_for语法演练">
-    <configuration name="hm_16_字符串判断方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cards_main">
+    <configuration name="cards_main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/hm_16_字符串判断方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang/cards_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_17_字符串的查找和替换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cards_main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,12 +180,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/hm_17_字符串的查找和替换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释/cards_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_18_字符串文本对齐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cards_main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,12 +202,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/hm_18_字符串文本对齐.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/cards_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_19_字符串拆分和拼接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cards_main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,12 +224,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/hm_19_字符串拆分和拼接.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成/cards_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_20_for语法演练" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cards_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,12 +246,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理备课" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/hm_20_for语法演练.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理备课/cards_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_20_for语法演练" />
-        <item itemvalue="Python.hm_19_字符串拆分和拼接" />
-        <item itemvalue="Python.hm_18_字符串文本对齐" />
-        <item itemvalue="Python.hm_17_字符串的查找和替换" />
-        <item itemvalue="Python.hm_16_字符串判断方法" />
+        <item itemvalue="Python.cards_main" />
+        <item itemvalue="Python.cards_main (2)" />
+        <item itemvalue="Python.cards_main (5)" />
+        <item itemvalue="Python.cards_main (4)" />
+        <item itemvalue="Python.cards_main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +294,8 @@
       <updated>1582122808795</updated>
       <workItem from="1582122810040" duration="32943000" />
       <workItem from="1582281263441" duration="3449000" />
-      <workItem from="1582294426761" duration="5184000" />
+      <workItem from="1582294426761" duration="5553000" />
+      <workItem from="1582339971693" duration="2277000" />
     </task>
     <task id="LOCAL-00001" summary="Pycharm自动生成">
       <created>1582124024639</created>
@@ -468,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582294511406</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="05_高级数据类型 列表 元组 字典 字符串">
+      <created>1582300727194</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582300727194</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,57 +365,58 @@
     <MESSAGE value="Python基础 调整md文件位置" />
     <MESSAGE value="分支 if 逻辑与或非 随机数" />
     <MESSAGE value="04_函数 以后注意包的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="04_函数 以后注意包的使用" />
+    <MESSAGE value="05_高级数据类型 列表 元组 字典 字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="05_高级数据类型 列表 元组 字典 字符串" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582294501752">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582342320245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582294501752" />
-    <state width="1493" height="420" key="GridCell.Tab.0.bottom" timestamp="1582300649706">
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582342320245" />
+    <state width="746" height="233" key="GridCell.Tab.0.bottom" timestamp="1582342320274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="420" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582300649706" />
-    <state width="1493" height="420" key="GridCell.Tab.0.center" timestamp="1582300649706">
+    <state width="746" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582342320274" />
+    <state width="746" height="233" key="GridCell.Tab.0.center" timestamp="1582342320274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="420" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582300649706" />
-    <state width="1493" height="420" key="GridCell.Tab.0.left" timestamp="1582300649706">
+    <state width="746" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582342320274" />
+    <state width="746" height="233" key="GridCell.Tab.0.left" timestamp="1582342320274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="420" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582300649706" />
-    <state width="1493" height="420" key="GridCell.Tab.0.right" timestamp="1582300649706">
+    <state width="746" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582342320274" />
+    <state width="746" height="233" key="GridCell.Tab.0.right" timestamp="1582342320274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="420" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582300649706" />
-    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1582280852639">
+    <state width="746" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582342320274" />
+    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1582341119794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582280852639" />
-    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1582280852639">
+    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582341119794" />
+    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1582341119794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582280852639" />
-    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1582280852639">
+    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582341119794" />
+    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1582341119794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582280852639" />
-    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1582280852639">
+    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582341119794" />
+    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1582341119794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582280852639" />
+    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582341119794" />
     <state x="19" y="32" key="SettingsEditor" timestamp="1582281282296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="19" y="32" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582281282296" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582294524694">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582340022022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582294524694" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582281263163">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582340022022" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582340009886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582281263163" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582340009886" />
     <state x="879" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582280766816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -568,15 +440,32 @@
           <line>20</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面/cards_main.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/cards_tools.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/16_修改名片/cards_tools.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonStart$hm_14_.coverage" NAME="hm_14_字符串定义和遍历 Coverage Results" MODIFIED="1582299337540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_while.coverage" NAME="hm_02_第一个while循环 Coverage Results" MODIFIED="1582291091484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
+    <SUITE FILE_PATH="coverage/PythonStart$cards_main__4_.coverage" NAME="cards_main (4) Coverage Results" MODIFIED="1582341119774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_01_hello.coverage" NAME="hm_01_hello Coverage Results" MODIFIED="1582263843157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_08_.coverage" NAME="hm_08_格式化字符串 Coverage Results" MODIFIED="1582298436965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_12_.coverage" NAME="hm_12_字典的遍历 Coverage Results" MODIFIED="1582299291098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
+    <SUITE FILE_PATH="coverage/PythonStart$cards_main__2_.coverage" NAME="cards_main (2) Coverage Results" MODIFIED="1582342146376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_09_print.coverage" NAME="hm_09_print函数的结尾 Coverage Results" MODIFIED="1582291878582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_06_.coverage" NAME="hm_06_元组基本使用 Coverage Results" MODIFIED="1582296812838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_20_for.coverage" NAME="hm_20_for语法演练 Coverage Results" MODIFIED="1582300649698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
@@ -589,15 +478,18 @@
     <SUITE FILE_PATH="coverage/PythonStart$hm_05_.coverage" NAME="hm_05_列表遍历 Coverage Results" MODIFIED="1582296744364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_11_.coverage" NAME="hm_11_字典的其他操作 Coverage Results" MODIFIED="1582298674559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_16_.coverage" NAME="hm_16_字符串判断方法 Coverage Results" MODIFIED="1582299990005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
-    <SUITE FILE_PATH="coverage/PythonStart$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1582295529806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/01_输入和pass" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_03_.coverage" NAME="hm_03_列表的数据统计 Coverage Results" MODIFIED="1582296565055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
+    <SUITE FILE_PATH="coverage/PythonStart$cards_main__1_.coverage" NAME="cards_main (1) Coverage Results" MODIFIED="1582340372157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环" />
+    <SUITE FILE_PATH="coverage/PythonStart$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1582342207379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理备课" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_05__2.coverage" NAME="hm_05_偶数求和_2 Coverage Results" MODIFIED="1582291468168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_13_.coverage" NAME="hm_13_字典的应用场景 Coverage Results" MODIFIED="1582299306593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
+    <SUITE FILE_PATH="coverage/PythonStart$cards_main__5_.coverage" NAME="cards_main (5) Coverage Results" MODIFIED="1582341405799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_15_.coverage" NAME="hm_15_字符串统计操作 Coverage Results" MODIFIED="1582299494503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_07_continue.coverage" NAME="hm_07_continue Coverage Results" MODIFIED="1582291828975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_.coverage" NAME="hm_02_快速体验 Coverage Results" MODIFIED="1582294433193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_07_.coverage" NAME="hm_07_元组遍历 Coverage Results" MODIFIED="1582296855471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_06_break.coverage" NAME="hm_06_break Coverage Results" MODIFIED="1582291820276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
+    <SUITE FILE_PATH="coverage/PythonStart$cards_main__3_.coverage" NAME="cards_main (3) Coverage Results" MODIFIED="1582340411812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释" />
     <SUITE FILE_PATH="coverage/PythonStart$QQmail.coverage" NAME="QQmail Coverage Results" MODIFIED="1582192824079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumLearn" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_04_.coverage" NAME="hm_04_列表排序 Coverage Results" MODIFIED="1582296741082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_10_.coverage" NAME="hm_10_字典基本使用 Coverage Results" MODIFIED="1582298642832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
