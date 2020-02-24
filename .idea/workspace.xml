@@ -2,63 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ce99b04-5af4-4c72-82ff-167571e5ed5b" name="Default Changelist" comment="06_名片管理 实现增删改查的功能 函数调用">
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/01_面向对象(OOP)基本概念.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/02_类和对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/03_面相对象基础语法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/04_面向对象封装案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/05_面向对象封装案例 II.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/06_私有属性和私有方法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/07_继承.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/08_多态.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/09_类属性和类方法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/10_单例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/11_异常.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/12_模块和包.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/13_文件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/14_eval函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/14951694921910/CPU.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/14951694921910/内存条.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/14951694921910/硬盘.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/14989636063700/001_异常示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/14989636063700/001_异常类型.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15005969256819/001_植物大战僵尸.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15005969256819/001_植物大战僵尸类图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15005969256819/001_面向过程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006069346510/001_植物大战僵尸类图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006069346510/002_Person类.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006069346510/002_飞机设计图纸.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006069346510/003_Dog类.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006069346510/003_飞机对象.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006092456994/004_Cat类1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006092456994/004_Cat类2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006092456994/004_Cat类3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006092456994/005_方法中的self.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006177106970/001_植物大战僵尸.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006177106970/007_小明爱跑步.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006177106970/008_摆放家具.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006304901683/009_士兵突击.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006305884400/010_私有属性和方法.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006307099794/011_继承对比图示.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006307099794/012_继承方法的重写.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006307099794/013_父类的私有属性和私有方法.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006307099794/014_多继承.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15006307099794/015_多继承II.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15012536156932/016_多态.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15012536156932/016_多态示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413127744/017_类的结构示意图I.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413127744/017_类的结构示意图II.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413127744/018_类属性案例I.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413127744/019_通过对象访问类属性.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413127744/020_类方法案例.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413127744/021_方法综合案例.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413216376/022_对象分配空间和初始化.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413216376/023_单例流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15016413521006/024_自定义异常.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15019810951755/001_ASCII编码表1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15019810951755/025_复制文件.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15019810951755/CPU.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15019810951755/内存条.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-13面向对象_html/media/15019810951755/硬盘.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/08_面向对象基础/hm_01_第一个面向对象.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/08_面向对象基础/hm_02_新建两个猫对象.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/08_面向对象基础/hm_03_设置对象属性_self.py" afterDir="false" />
@@ -97,12 +40,6 @@
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_18___new__方法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_19_单例.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_20_单例初始化一次.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_异常/hm_01_简单的异常捕获.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_异常/hm_02_捕获错误类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_异常/hm_03_捕获未知错误.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_异常/hm_04_完整的异常语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_异常/hm_05_异常的传递.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_异常/hm_06_抛出异常.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/11_模块/.idea/11_模块.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/11_模块/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/11_模块/.idea/modules.xml" afterDir="false" />
@@ -241,8 +178,8 @@
       <recent name="D:\PycharmProjects\PythonStart\base\python基础" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hm_01_简单的异常捕获">
-    <configuration name="hm_01_简单的异常捕获" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.hm_10_导入包">
+    <configuration name="hm_07_from_import导入全部" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,12 +187,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_异常/hm_01_简单的异常捕获.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_07_from_import导入全部.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_03_捕获未知错误" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_08_模块的搜索顺序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,12 +209,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_异常/hm_03_捕获未知错误.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_08_模块的搜索顺序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_04_完整的异常语法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_09___name__模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,12 +231,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_异常/hm_04_完整的异常语法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_09___name__模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_05_异常的传递" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_09___name__测试导入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,12 +253,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_异常/hm_05_异常的传递.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_09___name__测试导入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_06_抛出异常" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_10_导入包" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,12 +275,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_异常/hm_06_抛出异常.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_10_导入包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_01_简单的异常捕获" />
-        <item itemvalue="Python.hm_06_抛出异常" />
-        <item itemvalue="Python.hm_05_异常的传递" />
-        <item itemvalue="Python.hm_04_完整的异常语法" />
-        <item itemvalue="Python.hm_03_捕获未知错误" />
+        <item itemvalue="Python.hm_10_导入包" />
+        <item itemvalue="Python.hm_09___name__测试导入" />
+        <item itemvalue="Python.hm_09___name__模块" />
+        <item itemvalue="Python.hm_08_模块的搜索顺序" />
+        <item itemvalue="Python.hm_07_from_import导入全部" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +324,7 @@
       <workItem from="1582122810040" duration="32943000" />
       <workItem from="1582281263441" duration="3449000" />
       <workItem from="1582294426761" duration="5553000" />
-      <workItem from="1582339971693" duration="17111000" />
+      <workItem from="1582339971693" duration="21404000" />
     </task>
     <task id="LOCAL-00001" summary="Pycharm自动生成">
       <created>1582124024639</created>
@@ -452,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582509924416</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="异常">
+      <created>1582544007079</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582544007079</updated>
+    </task>
+    <task id="LOCAL-00011" summary="8-13 学习笔记">
+      <created>1582544080765</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582544080765</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +433,9 @@
     <MESSAGE value="06_名片管理 实现增删改查的功能 函数调用" />
     <MESSAGE value="13_文件 读写文件 复制文件" />
     <MESSAGE value="07_语法进阶 全局变量 局部变量 函数参数返回值" />
-    <option name="LAST_COMMIT_MESSAGE" value="07_语法进阶 全局变量 局部变量 函数参数返回值" />
+    <MESSAGE value="异常" />
+    <MESSAGE value="8-13 学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="8-13 学习笔记" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -494,26 +447,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582371983283" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582544005745">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582544075346">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582544005745" />
-    <state width="746" height="233" key="GridCell.Tab.0.bottom" timestamp="1582543896541">
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582544075346" />
+    <state width="746" height="233" key="GridCell.Tab.0.bottom" timestamp="1582552393347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582543896541" />
-    <state width="746" height="233" key="GridCell.Tab.0.center" timestamp="1582543896541">
+    <state width="746" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
+    <state width="746" height="233" key="GridCell.Tab.0.center" timestamp="1582552393347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582543896541" />
-    <state width="746" height="233" key="GridCell.Tab.0.left" timestamp="1582543896540">
+    <state width="746" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
+    <state width="746" height="233" key="GridCell.Tab.0.left" timestamp="1582552393347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582543896540" />
-    <state width="746" height="233" key="GridCell.Tab.0.right" timestamp="1582543896541">
+    <state width="746" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
+    <state width="746" height="233" key="GridCell.Tab.0.right" timestamp="1582552393347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582543896541" />
+    <state width="746" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
     <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1582372107548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -534,10 +487,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="19" y="32" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582281282296" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582511160540">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582544126582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582511160540" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582544126582" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582340009886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -599,19 +552,21 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonStart$hm_15__02_.coverage" NAME="hm_15_士兵突击_02_士兵类 Coverage Results" MODIFIED="1582547680596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_while.coverage" NAME="hm_02_第一个while循环 Coverage Results" MODIFIED="1582291091484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main__4_.coverage" NAME="cards_main (4) Coverage Results" MODIFIED="1582341119774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_06_from_import_.coverage" NAME="hm_06_from_import_注意事项 Coverage Results" MODIFIED="1582372420913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_08_.coverage" NAME="hm_08_多个返回值 Coverage Results" MODIFIED="1582507122495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_06_from_import_.coverage" NAME="hm_06_from_import_注意事项 Coverage Results" MODIFIED="1582550186423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_08_.coverage" NAME="hm_08_模块的搜索顺序 Coverage Results" MODIFIED="1582551163996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_12_.coverage" NAME="hm_12_加等于（面试题） Coverage Results" MODIFIED="1582507411608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_08___str__.coverage" NAME="hm_08___str__方法 Coverage Results" MODIFIED="1582512041923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_09_print.coverage" NAME="hm_09_print函数的结尾 Coverage Results" MODIFIED="1582291878582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_20_.coverage" NAME="hm_20_递归求和 Coverage Results" MODIFIED="1582509862619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_09___name__.coverage" NAME="hm_09___name__测试导入 Coverage Results" MODIFIED="1582552370664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_19_.coverage" NAME="hm_19_递归函数的特点 Coverage Results" MODIFIED="1582509846343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_01_.coverage" NAME="hm_01_简单的异常捕获 Coverage Results" MODIFIED="1582543896534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_01_.coverage" NAME="hm_01_第一个面向对象 Coverage Results" MODIFIED="1582547365581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$HelloPython.coverage" NAME="HelloPython Coverage Results" MODIFIED="1582250852866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/python基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_04_qq.coverage" NAME="hm_04_qq号码 Coverage Results" MODIFIED="1582255214374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_03_import.coverage" NAME="hm_03_import导入模块 Coverage Results" MODIFIED="1582372386340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_03_import.coverage" NAME="hm_03_import导入模块 Coverage Results" MODIFIED="1582550084307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_08_eval.coverage" NAME="hm_08_eval计算器 Coverage Results" MODIFIED="1582371573707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_文件" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_05_.coverage" NAME="hm_05_异常的传递 Coverage Results" MODIFIED="1582543819490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_16_.coverage" NAME="hm_16_多值参数 Coverage Results" MODIFIED="1582509234280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
@@ -621,31 +576,34 @@
     <SUITE FILE_PATH="coverage/PythonStart$hm_13_.coverage" NAME="hm_13_函数的缺省参数 Coverage Results" MODIFIED="1582507423316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main__5_.coverage" NAME="cards_main (5) Coverage Results" MODIFIED="1582341405799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_07_.coverage" NAME="hm_07_全局变量命名 Coverage Results" MODIFIED="1582505986979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_05_from_import.coverage" NAME="hm_05_from_import导入 Coverage Results" MODIFIED="1582372403738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_05_from_import.coverage" NAME="hm_05_from_import导入 Coverage Results" MODIFIED="1582550158371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1582370288321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_04_.coverage" NAME="hm_04_完整的异常语法 Coverage Results" MODIFIED="1582543687684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_13__03_.coverage" NAME="hm_13_摆放家具_03_添加家具 Coverage Results" MODIFIED="1582547393325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_17_.coverage" NAME="hm_17_多值参数求和 Coverage Results" MODIFIED="1582509240013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_10_.coverage" NAME="hm_10_小明爱跑步扩展 Coverage Results" MODIFIED="1582522581826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_10_.coverage" NAME="hm_10_导入包 Coverage Results" MODIFIED="1582552393340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$python.coverage" NAME="python基础 Coverage Results" MODIFIED="1582253034612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_07_python2.coverage" NAME="hm_07_python2字符串 Coverage Results" MODIFIED="1582371565160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_文件" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_01_pygame.coverage" NAME="hm_01_pygame入门 Coverage Results" MODIFIED="1582370271092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_03__self.coverage" NAME="hm_03_设置对象属性_self Coverage Results" MODIFIED="1582510352277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_11__01_.coverage" NAME="hm_11_摆放家具_01_家具类 Coverage Results" MODIFIED="1582530711767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_14_.coverage" NAME="hm_14_函数的缺省参数定义 Coverage Results" MODIFIED="1582508028727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_14__01_.coverage" NAME="hm_14_士兵突击_01_枪类 Coverage Results" MODIFIED="1582547439819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_01_hello.coverage" NAME="hm_01_hello Coverage Results" MODIFIED="1582263843157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_04_import.coverage" NAME="hm_04_import同时指定别名 Coverage Results" MODIFIED="1582372392781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_04_import.coverage" NAME="hm_04_import同时指定别名 Coverage Results" MODIFIED="1582550096772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_16__03_.coverage" NAME="hm_16_士兵突击_03_士兵开火 Coverage Results" MODIFIED="1582547689533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main__2_.coverage" NAME="cards_main (2) Coverage Results" MODIFIED="1582342146376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/20_shebang" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_06_.coverage" NAME="hm_06_抛出异常 Coverage Results" MODIFIED="1582543865632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_20_for.coverage" NAME="hm_20_for语法演练 Coverage Results" MODIFIED="1582300649698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_2Python.coverage" NAME="hm_02_第2个Python程序 Coverage Results" MODIFIED="1582263983738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_18_.coverage" NAME="hm_18_元组和字典的拆包 Coverage Results" MODIFIED="1582509799236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_18_.coverage" NAME="hm_18_伪私有属性和方法 Coverage Results" MODIFIED="1582548956283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_11_.coverage" NAME="hm_11_函数内部通过方法修改可变参数 Coverage Results" MODIFIED="1582507358552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1582342207379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理备课" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_03_.coverage" NAME="hm_03_捕获未知错误 Coverage Results" MODIFIED="1582543647386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_15_.coverage" NAME="hm_15_缺省参数注意点 Coverage Results" MODIFIED="1582508158237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_07_continue.coverage" NAME="hm_07_continue Coverage Results" MODIFIED="1582291828975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_.coverage" NAME="hm_02_捕获错误类型 Coverage Results" MODIFIED="1582543633142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_07_from_import.coverage" NAME="hm_07_from_import导入全部 Coverage Results" MODIFIED="1582372425790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_07_from_import.coverage" NAME="hm_07_from_import导入全部 Coverage Results" MODIFIED="1582550221097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_06_break.coverage" NAME="hm_06_break Coverage Results" MODIFIED="1582291820276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main__3_.coverage" NAME="cards_main (3) Coverage Results" MODIFIED="1582340411812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/04_TODO注释" />
     <SUITE FILE_PATH="coverage/PythonStart$QQmail.coverage" NAME="QQmail Coverage Results" MODIFIED="1582192824079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumLearn" />
