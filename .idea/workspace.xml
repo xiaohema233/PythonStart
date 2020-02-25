@@ -40,59 +40,6 @@
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_18___new__方法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_19_单例.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_20_单例初始化一次.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_01_pygame入门.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_02_使用Rect描述英雄.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_03_创建游戏窗口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_04_绘制图像.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_05_绘制英雄图像.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_06_update方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_07_认识游戏循环.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_08_更新英雄位置.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_09_英雄循环飞行.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_10_事件监听.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_11_监听退出事件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_12_演练精灵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/again.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/bomb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/bomb_supply.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/bullet1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/bullet2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/bullet_supply.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy1_down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy1_down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy1_down3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy1_down4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy2_down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy2_down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy2_down3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy2_down4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy2_hit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_down3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_down4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_down5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_down6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_hit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_n1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/enemy3_n2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/gameover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/life.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/me1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/me2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/me_destroy_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/me_destroy_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/me_destroy_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/me_destroy_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/pause_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/pause_pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/resume_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/images/resume_pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/plane_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_飞机大战/plane_sprites.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -298,7 +245,7 @@
       <workItem from="1582122810040" duration="32943000" />
       <workItem from="1582281263441" duration="3449000" />
       <workItem from="1582294426761" duration="5553000" />
-      <workItem from="1582339971693" duration="23738000" />
+      <workItem from="1582339971693" duration="24098000" />
     </task>
     <task id="LOCAL-00001" summary="Pycharm自动生成">
       <created>1582124024639</created>
@@ -384,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582554814577</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="飞机大战 pygame 监听事件">
+      <created>1582603100614</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582603100614</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +371,8 @@
     <MESSAGE value="异常" />
     <MESSAGE value="8-13 学习笔记" />
     <MESSAGE value="模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="模块" />
+    <MESSAGE value="飞机大战 pygame 监听事件" />
+    <option name="LAST_COMMIT_MESSAGE" value="飞机大战 pygame 监听事件" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -429,10 +384,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582371983283" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582554813527">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582603094286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582554813527" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582603094286" />
     <state width="746" height="233" key="GridCell.Tab.0.bottom" timestamp="1582602877364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -469,10 +424,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="19" y="32" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582281282296" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582544126582">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582603104519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582544126582" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582603104519" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582340009886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
