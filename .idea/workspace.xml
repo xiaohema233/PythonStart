@@ -40,32 +40,6 @@
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_18___new__方法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_19_单例.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象特性/hm_20_单例初始化一次.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/.idea/11_模块.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_01_测试模块1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_02_测试模块2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_03_import导入模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_04_import同时指定别名.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_05_from_import导入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_06_from_import_注意事项.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_07_from_import导入全部.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_08_模块的搜索顺序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_09___name__模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_09___name__测试导入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_10_导入包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_message/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_message/receive_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_模块/hm_message/send_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/.idea/12_发布模块.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/hm_message/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/hm_message/receive_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/hm_message/send_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_发布模块/setup.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_01_pygame入门.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_02_使用Rect描述英雄.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/14_飞机大战/hm_03_创建游戏窗口.py" afterDir="false" />
@@ -178,8 +152,8 @@
       <recent name="D:\PycharmProjects\PythonStart\base\python基础" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hm_10_导入包">
-    <configuration name="hm_07_from_import导入全部" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.hm_12_演练精灵">
+    <configuration name="hm_08_更新英雄位置" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +161,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_飞机大战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_07_from_import导入全部.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_飞机大战/hm_08_更新英雄位置.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_08_模块的搜索顺序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_09_英雄循环飞行" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +183,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_飞机大战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_08_模块的搜索顺序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_飞机大战/hm_09_英雄循环飞行.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_09___name__模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_10_事件监听" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +205,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_飞机大战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_09___name__模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_飞机大战/hm_10_事件监听.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_09___name__测试导入" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_11_监听退出事件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +227,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_飞机大战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_09___name__测试导入.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_飞机大战/hm_11_监听退出事件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_10_导入包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_12_演练精灵" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +249,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_飞机大战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_模块/hm_10_导入包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_飞机大战/hm_12_演练精灵.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_10_导入包" />
-        <item itemvalue="Python.hm_09___name__测试导入" />
-        <item itemvalue="Python.hm_09___name__模块" />
-        <item itemvalue="Python.hm_08_模块的搜索顺序" />
-        <item itemvalue="Python.hm_07_from_import导入全部" />
+        <item itemvalue="Python.hm_12_演练精灵" />
+        <item itemvalue="Python.hm_11_监听退出事件" />
+        <item itemvalue="Python.hm_10_事件监听" />
+        <item itemvalue="Python.hm_09_英雄循环飞行" />
+        <item itemvalue="Python.hm_08_更新英雄位置" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +298,7 @@
       <workItem from="1582122810040" duration="32943000" />
       <workItem from="1582281263441" duration="3449000" />
       <workItem from="1582294426761" duration="5553000" />
-      <workItem from="1582339971693" duration="21404000" />
+      <workItem from="1582339971693" duration="23738000" />
     </task>
     <task id="LOCAL-00001" summary="Pycharm自动生成">
       <created>1582124024639</created>
@@ -403,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582544080765</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="模块">
+      <created>1582554814577</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582554814577</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +416,8 @@
     <MESSAGE value="07_语法进阶 全局变量 局部变量 函数参数返回值" />
     <MESSAGE value="异常" />
     <MESSAGE value="8-13 学习笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="8-13 学习笔记" />
+    <MESSAGE value="模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="模块" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -447,26 +429,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582371983283" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582544075346">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1582554813527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582544075346" />
-    <state width="746" height="233" key="GridCell.Tab.0.bottom" timestamp="1582552393347">
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582554813527" />
+    <state width="746" height="233" key="GridCell.Tab.0.bottom" timestamp="1582602877364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
-    <state width="746" height="233" key="GridCell.Tab.0.center" timestamp="1582552393347">
+    <state width="746" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582602877364" />
+    <state width="746" height="233" key="GridCell.Tab.0.center" timestamp="1582602877364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
-    <state width="746" height="233" key="GridCell.Tab.0.left" timestamp="1582552393347">
+    <state width="746" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582602877364" />
+    <state width="746" height="233" key="GridCell.Tab.0.left" timestamp="1582602877364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
-    <state width="746" height="233" key="GridCell.Tab.0.right" timestamp="1582552393347">
+    <state width="746" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582602877364" />
+    <state width="746" height="233" key="GridCell.Tab.0.right" timestamp="1582602877364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582552393347" />
+    <state width="746" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582602877364" />
     <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1582372107548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -556,9 +538,9 @@
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_while.coverage" NAME="hm_02_第一个while循环 Coverage Results" MODIFIED="1582291091484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main__4_.coverage" NAME="cards_main (4) Coverage Results" MODIFIED="1582341119774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/05_欢迎界面" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_06_from_import_.coverage" NAME="hm_06_from_import_注意事项 Coverage Results" MODIFIED="1582550186423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_08_.coverage" NAME="hm_08_模块的搜索顺序 Coverage Results" MODIFIED="1582551163996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_12_.coverage" NAME="hm_12_加等于（面试题） Coverage Results" MODIFIED="1582507411608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_08_.coverage" NAME="hm_08_更新英雄位置 Coverage Results" MODIFIED="1582602393274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_08___str__.coverage" NAME="hm_08___str__方法 Coverage Results" MODIFIED="1582512041923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_12_.coverage" NAME="hm_12_演练精灵 Coverage Results" MODIFIED="1582602877355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_09_print.coverage" NAME="hm_09_print函数的结尾 Coverage Results" MODIFIED="1582291878582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_20_.coverage" NAME="hm_20_递归求和 Coverage Results" MODIFIED="1582509862619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_09___name__.coverage" NAME="hm_09___name__测试导入 Coverage Results" MODIFIED="1582552370664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
@@ -568,24 +550,25 @@
     <SUITE FILE_PATH="coverage/PythonStart$hm_04_qq.coverage" NAME="hm_04_qq号码 Coverage Results" MODIFIED="1582255214374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_03_import.coverage" NAME="hm_03_import导入模块 Coverage Results" MODIFIED="1582550084307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_08_eval.coverage" NAME="hm_08_eval计算器 Coverage Results" MODIFIED="1582371573707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_文件" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_05_.coverage" NAME="hm_05_异常的传递 Coverage Results" MODIFIED="1582543819490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_05_.coverage" NAME="hm_05_绘制英雄图像 Coverage Results" MODIFIED="1582602306484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_16_.coverage" NAME="hm_16_多值参数 Coverage Results" MODIFIED="1582509234280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main__1_.coverage" NAME="cards_main (1) Coverage Results" MODIFIED="1582340372157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/02_无限循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_05__2.coverage" NAME="hm_05_偶数求和_2 Coverage Results" MODIFIED="1582291468168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_01_1.coverage" NAME="hm_01_测试模块1 Coverage Results" MODIFIED="1582370456421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_13_.coverage" NAME="hm_13_函数的缺省参数 Coverage Results" MODIFIED="1582507423316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main__5_.coverage" NAME="cards_main (5) Coverage Results" MODIFIED="1582341405799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理/06_框架搭建完成" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_07_.coverage" NAME="hm_07_全局变量命名 Coverage Results" MODIFIED="1582505986979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_07_.coverage" NAME="hm_07_认识游戏循环 Coverage Results" MODIFIED="1582602358334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_05_from_import.coverage" NAME="hm_05_from_import导入 Coverage Results" MODIFIED="1582550158371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
     <SUITE FILE_PATH="coverage/PythonStart$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1582370288321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_04_.coverage" NAME="hm_04_完整的异常语法 Coverage Results" MODIFIED="1582543687684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_04_.coverage" NAME="hm_04_绘制图像 Coverage Results" MODIFIED="1582602267486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_13__03_.coverage" NAME="hm_13_摆放家具_03_添加家具 Coverage Results" MODIFIED="1582547393325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_17_.coverage" NAME="hm_17_多值参数求和 Coverage Results" MODIFIED="1582509240013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_10_.coverage" NAME="hm_10_导入包 Coverage Results" MODIFIED="1582552393340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_模块" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_10_.coverage" NAME="hm_10_事件监听 Coverage Results" MODIFIED="1582602827476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_06_update.coverage" NAME="hm_06_update方法 Coverage Results" MODIFIED="1582602325865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$python.coverage" NAME="python基础 Coverage Results" MODIFIED="1582253034612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_07_python2.coverage" NAME="hm_07_python2字符串 Coverage Results" MODIFIED="1582371565160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_文件" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_01_pygame.coverage" NAME="hm_01_pygame入门 Coverage Results" MODIFIED="1582370271092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_03__self.coverage" NAME="hm_03_设置对象属性_self Coverage Results" MODIFIED="1582510352277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_01_pygame.coverage" NAME="hm_01_pygame入门 Coverage Results" MODIFIED="1582602102339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_11__01_.coverage" NAME="hm_11_摆放家具_01_家具类 Coverage Results" MODIFIED="1582530711767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_14_.coverage" NAME="hm_14_函数的缺省参数定义 Coverage Results" MODIFIED="1582508028727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_14__01_.coverage" NAME="hm_14_士兵突击_01_枪类 Coverage Results" MODIFIED="1582547439819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
@@ -597,9 +580,10 @@
     <SUITE FILE_PATH="coverage/PythonStart$hm_20_for.coverage" NAME="hm_20_for语法演练 Coverage Results" MODIFIED="1582300649698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_2Python.coverage" NAME="hm_02_第2个Python程序 Coverage Results" MODIFIED="1582263983738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_18_.coverage" NAME="hm_18_伪私有属性和方法 Coverage Results" MODIFIED="1582548956283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_11_.coverage" NAME="hm_11_函数内部通过方法修改可变参数 Coverage Results" MODIFIED="1582507358552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_02_Rect.coverage" NAME="hm_02_使用Rect描述英雄 Coverage Results" MODIFIED="1582602128661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_11_.coverage" NAME="hm_11_监听退出事件 Coverage Results" MODIFIED="1582602869842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1582342207379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理视频代码和备课代码/06_名片管理备课" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_03_.coverage" NAME="hm_03_捕获未知错误 Coverage Results" MODIFIED="1582543647386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_03_.coverage" NAME="hm_03_创建游戏窗口 Coverage Results" MODIFIED="1582602210878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_15_.coverage" NAME="hm_15_缺省参数注意点 Coverage Results" MODIFIED="1582508158237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_07_continue.coverage" NAME="hm_07_continue Coverage Results" MODIFIED="1582291828975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_.coverage" NAME="hm_02_捕获错误类型 Coverage Results" MODIFIED="1582543633142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_异常" />
@@ -610,6 +594,6 @@
     <SUITE FILE_PATH="coverage/PythonStart$hm_07___del__.coverage" NAME="hm_07___del__方法 Coverage Results" MODIFIED="1582511903445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/PythonStart$plane_main__1_.coverage" NAME="plane_main (1) Coverage Results" MODIFIED="1582370368171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_飞机大战" />
     <SUITE FILE_PATH="coverage/PythonStart$hm_02_del.coverage" NAME="hm_02_del关键字 Coverage Results" MODIFIED="1582296313550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
-    <SUITE FILE_PATH="coverage/PythonStart$hm_09_.coverage" NAME="hm_09_小明爱跑步 Coverage Results" MODIFIED="1582522517218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
+    <SUITE FILE_PATH="coverage/PythonStart$hm_09_.coverage" NAME="hm_09_英雄循环飞行 Coverage Results" MODIFIED="1582602630721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_飞机大战" />
   </component>
 </project>
